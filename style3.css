@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(149, 202, 202);
+    
+}
+
+.container1{
+    text-align: center;
+    margin-top: 200px;
+   
+}
+
+
+.container2{
+    background-image: url("Mountain\ Image.png");
+    height: 300px;
+    width: 600px;
+    background-size: cover;
+    background-position: center;
+    position:absolute;
+    top:500px;
+    left:400px
+
+
+}
+
+.container3{
+    background-image: url("cloudImage.png");
+    height:100px;
+    width:100px;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    bottom:500px;
+    left:750px;
+    
+}
+.container4{
+    background-image: url("cloudImage.png");
+    height:100px;
+    width:100px;
+    background-size: cover;
+    background-position: center;
+    position:absolute;
+    left:500px;
+    
+}
